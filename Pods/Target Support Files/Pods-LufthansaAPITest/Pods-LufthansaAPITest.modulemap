@@ -1,0 +1,6 @@
+framework module Pods_LufthansaAPITest {
+  umbrella header "Pods-LufthansaAPITest-umbrella.h"
+
+  export *
+  module * { export * }
+}
