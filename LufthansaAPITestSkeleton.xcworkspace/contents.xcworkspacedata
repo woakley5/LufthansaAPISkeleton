@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/woakley/Google Drive/School/Berkeley/MDB/Training Program Stuff/MDB Training Program Fall 2018/iOS/MiniProjects/MP5 - Flight Tracker App/LufthansaAPITestSkeleton/LufthansaAPITestSkeleton.xcodeproj">
+      location = "container:/Users/woakley/Google Drive/School/Berkeley/MDB/Training Program Stuff/MDB Training Program Fall 2018/iOS/MiniProjects/MP5 - Flight Tracker App/LufthansaAPITestSkeleton/LufthansaAPITestSkeleton.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pods/Pods.xcodeproj">
+      location = "container:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
